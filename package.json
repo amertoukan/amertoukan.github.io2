@@ -1,0 +1,24 @@
+{
+  "name": "colorfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amertoukan/colorfill.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amertoukan/colorfill/issues"
+  },
+  "homepage": "https://github.com/amertoukan/colorfill#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
